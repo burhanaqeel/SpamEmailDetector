@@ -164,6 +164,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <p>Developed with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
+  <p>Developed with ❤️ by <a href="https://github.com/burhanaqeel">Burhan Aqeel</a></p>
   <p>Star ⭐ this repository if you find it useful!</p>
 </div>
