@@ -41,8 +41,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/spam-email-detector.git
-   cd spam-email-detector
+   git clone https://github.com/burhanaqeel/SpamEmailDetector.git
    ```
 
 2. **Create and activate a virtual environment**
